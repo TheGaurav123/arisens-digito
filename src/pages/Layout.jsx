@@ -1,9 +1,7 @@
 import React from 'react'
 import { Button, Header } from '../components'
 import { Globe, Arrow, DownArrow, DoubleArrowRight, Location, Dialer, Mail, GoogleMap, Logo, Partners, Blog, ServiceVector } from '../assets/images'
-import { Service_Data } from '../constants/Service_Data.constants'
-import { SERVICES } from '../constants/Services.constants'
-import { TESTIMONIALS } from '../constants/testimonial.constants'
+import { Service_Data, SERVICES, TESTIMONIALS } from '../constants'
 import StarImage from '../assets/images/Star.svg'
 import { BrowserRouter } from 'react-router-dom'
 
